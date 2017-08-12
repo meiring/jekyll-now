@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Philosophers
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+As far as the white rabbit is concerned, it might be better to compare it with the
+whole universe. We who live here are microscopic insects existing deep down in the rabbit’s
+fur. But philosophers are always trying to climb up the fine hairs of the fur in order to stare right
+into the magician’s eyes.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Although philosophical questions concern us all, we do not all
+become philosophers. For various reasons most people get so caught up in everyday affairs
+that their astonishment at the world gets pushed into the background. (They crawl deep into
+the rabbit’s fur, snuggle down comfortably, and stay there for the rest of their lives.)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+- Gaarder
